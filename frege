@@ -1,0 +1,3 @@
+#!/bin/sh
+exec java -Xss1m -cp "/usr/local/Cellar/frege/3.19.112a/libexec/frege3.19.112a.
+jar:." "$@"
