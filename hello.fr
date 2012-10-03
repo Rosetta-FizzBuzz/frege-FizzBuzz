@@ -1,0 +1,5 @@
+package test.World where
+main (g:_) = println ("Hello " ++ g ++ "!")
+main args = println "Hello World!"
+
+
